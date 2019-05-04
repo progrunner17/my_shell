@@ -1,12 +1,17 @@
-# my_shell  
+# prosh 
 
-某理学部情報科学科システムプログラミング実験の課題で作成した自作のシェルです！  
-## 作成環境
-- OS: Ubuntu14.0.4
-- コンパイラ: gcc4.8.x
-- C言語: C90??
+prosh literally means "extremely cure" and is a short form of PROgrunner's SHell.  
+This shell is originally made for syspro, a experiment class for system programing in the university.
 
-## 現在実装している組み込みコマンド  
+## feature
+- support redirect
+  - >
+  - <
+- pipe
+  - |
+- some built-in commands
+
+## built in commands
 - exit
 - fg
 - bg
