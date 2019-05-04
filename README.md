@@ -1,4 +1,4 @@
-# prosh 
+# prosh: Progrunner's Shell
 
 prosh literally means "extremely cure" and is a short form of PROgrunner's SHell.  
 This shell is originally made for syspro, a experiment class for system programing in the university.
